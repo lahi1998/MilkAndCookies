@@ -9,7 +9,6 @@ C:\Users\zbclshi\source\repos\MilkAndCookies\MilkAndCookies\bin\Debug\net7.0\Mil
 C:\Users\zbclshi\source\repos\MilkAndCookies\MilkAndCookies\bin\Debug\net7.0\System.Net.Http.Formatting.dll
 C:\Users\zbclshi\source\repos\MilkAndCookies\MilkAndCookies\bin\Debug\net7.0\System.Web.Http.dll
 C:\Users\zbclshi\source\repos\MilkAndCookies\MilkAndCookies\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\zbclshi\source\repos\MilkAndCookies\MilkAndCookies\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\zbclshi\source\repos\MilkAndCookies\MilkAndCookies\bin\Debug\net7.0\Microsoft.OpenApi.dll
 C:\Users\zbclshi\source\repos\MilkAndCookies\MilkAndCookies\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Users\zbclshi\source\repos\MilkAndCookies\MilkAndCookies\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
